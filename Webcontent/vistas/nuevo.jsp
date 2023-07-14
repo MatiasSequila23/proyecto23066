@@ -38,14 +38,9 @@
 			
 			
 			<button type="submit" class="btn btn-primary">Insertar</button>
-			
-			
-			
+					
 			</form>
 		</div>	
-	
-	
 	</div>
-
 </body>
 </html>

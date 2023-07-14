@@ -13,20 +13,9 @@ public class Socios
 	private boolean estado;
 	private LocalDate fecha_alta;
 	
-	
-	/*
-	public Socios(int id_socio,String nombre,String apellido,int dni,String mail,boolean estado,Date fecha_alta)
-	{
-		this.id_socio=id_socio;
-		this.setNombre(nombre);
-		this.nombre=nombre;	
-		
-	}
-	*/
-	//contructor
+
 	public Socios(int id_socio, String nombre, String apellido, int dni, String mail, boolean estado, LocalDate fecha_alta) 
 	{
-		//super();//ver contructor de la clase padre
 		this.id_socio = id_socio;
 		this.nombre = nombre;
 		this.apellido = apellido;
@@ -81,10 +70,4 @@ public class Socios
 	public void setFecha_alta(LocalDate fecha_alta) {
 		this.fecha_alta = fecha_alta;
 	}
-	
-
-	
-	
-	
-	
 }

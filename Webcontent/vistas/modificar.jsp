@@ -53,18 +53,9 @@
 			</div>
 			
 			<button type="submit" class="btn btn-primary">Modificar</button>
-			
-			
-			
-			</form>
-		
-		
-		
-		
-		</div>	
-	
-	
+						
+			</form>		
+		</div>		
 	</div>
-
 </body>
 </html>

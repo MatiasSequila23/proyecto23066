@@ -151,22 +151,4 @@ public class SociosDAO
 		}	
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
